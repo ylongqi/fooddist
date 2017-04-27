@@ -1,6 +1,8 @@
 # FoodDist
 An open-source food image embedding model, which is trained and can be loaded with caffe: http://caffe.berkeleyvision.org/
 
+Model download: https://s3.amazonaws.com/cornell-tech-sdl-fooddist/siamese_vgg_food_train_iter_100000.caffemodel
+
 **Contact**: [Longqi Yang](http://www.cs.cornell.edu/~ylongqi), ylongqi@cs.cornell.edu
 
 **Reference**: 
