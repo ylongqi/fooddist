@@ -5,6 +5,7 @@ To execute the model, please copy the GRN layer implementation from this repo (.
 
 Model download: https://s3.amazonaws.com/cornell-tech-sdl-fooddist/siamese_vgg_food_train_iter_100000.caffemodel
 
+For open-source Yum-me system, please refer to: https://github.com/ylongqi/yumme
 
 **Contact**: [Longqi Yang](http://www.cs.cornell.edu/~ylongqi), ylongqi@cs.cornell.edu
 
